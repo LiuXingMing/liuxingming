@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there!
+
+-- 我是幸明，一名爬虫工程师与交易工程师；
+-- 忙碌而无为是件多么无趣的事情！
 
 <!--
 **LiuXingMing/liuxingming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
